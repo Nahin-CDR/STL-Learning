@@ -56,6 +56,9 @@ int main()
     
     cout<<"\n\n\n\n";
     
+     
+    list1.sort();
+    showList(list1);
     
     
     
